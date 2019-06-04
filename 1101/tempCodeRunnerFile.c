@@ -1,0 +1,1 @@
+GetGaussianRandom(50, 20);
